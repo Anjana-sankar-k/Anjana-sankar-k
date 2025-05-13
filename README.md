@@ -31,20 +31,6 @@ pie title what occupies my thoughts
 - Spill the tea → started at a hackathon, we gotta edit that more, but the UI for that is litttt!!!
 - Lifelist → it's a work in progress don't @ me
 
-## me vs. projects:
-
-```mermaid
-gantt
-    title My Project Timeline vs Reality
-    dateFormat  YYYY-MM-DD
-    section Timeline
-    Initial Excitement           :a1, 2023-01-01, 7d
-    Actual Coding                :a2, after a1, 14d
-    "This is impossible"         :a3, after a2, 5d
-    Breakthrough at 3am          :a4, after a3, 1d
-    Somehow it works             :a5, after a4, 3d
-```
-
 ## tech i use when the chaos demands it:
 
 <div align="center">

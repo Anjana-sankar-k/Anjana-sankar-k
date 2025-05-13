@@ -61,13 +61,13 @@ gantt
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anjana-sankar-k&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjana-sankar-k&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## current status:
 - [x] caffeinated
-- [ ] knows what day it is
+- [x] knows what day it is
 - [x] has too many browser tabs open
-- [ ] actually finished documenting code(not really)
+- [x] actually finished documenting code(not really)
+
 
 wanna collaborate? cool, message me!

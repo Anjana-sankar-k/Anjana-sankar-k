@@ -4,6 +4,7 @@
 
 ## so like, an about me?
 building things with heart, juggling a dozen ideas at once, and somehow making it all work.
+
 trying to find my niche in tech, so i’m building, learning, and doing a little bit of everything.
 i care about sustainability, relatability, and building with empathy—tech that actually helps, not just impresses.
 it’s a bit chaotic, but it’s all heart.

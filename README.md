@@ -32,7 +32,7 @@ pie title what occupies my thoughts
 - Spill the tea → started at a hackathon, we gotta edit that more, but the UI for that is litttt!!!
 - Lifelist → it's a work in progress don't @ me
 
-## tech i use when the chaos demands it:
+## tech (most used) :
 
 <div align="center">
   

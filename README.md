@@ -15,18 +15,6 @@ currently split between:
 - convincing people to join my chaotic but somehow functional project teams
 - attempting to maintain a sleep schedule (failing spectacularly)
 
-## my brain, visualized:
-
-```mermaid
-pie title what occupies my thoughts
-    "Project ideas" : 30
-    "Coffee" : 20
-    "Wondering if my code will work" : 20
-    "Planning world domination" : 10
-    "Actual sleep" : 5
-    "MusicDanceBooksMoviesetcetc": 15
-```
-
 ## stuff i've built when inspiration struck:
 - Boba → made this because proximity based chatting made sense at the time
 - Spill the tea → started at a hackathon, we gotta edit that more, but the UI for that is litttt!!!

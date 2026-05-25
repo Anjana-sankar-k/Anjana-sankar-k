@@ -1,24 +1,48 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-55-brightgreen?style=flat-square)](https://github.com/Anjana-sankar-k?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Anjana-sankar-k?label=Followers&style=flat-square)](https://github.com/Anjana-sankar-k)
+[![Private Repos](https://img.shields.io/badge/Private%20Repos-8-blue?style=flat-square)]()
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+## 👋 About Me
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+Hi! I'm **Anjana Sankar**, a passionate developer and hackathon enthusiast from **India**. I'm actively building projects across diverse domains, with a strong focus on creating innovative solutions and contributing to the developer community.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 📍 **Location:** India
+- 🎓 **Education:** Computer Science @ Cochin University of Science and Technology (Current)
+- 👨‍🏫 **Experience:** Coach @ Major League Hacking
+- 📅 **GitHub Member Since:** November 23, 2023
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+### 📊 GitHub Stats
+- **Public Repositories:** 55
+- **Private Repositories:** 8
+- **Followers:** 9 | **Following:** 4
+
+### 🎓 Education
+- **University:** Cochin University of Science and Technology
+- **Field of Study:** Computer Science
+- **Status:** Currently Pursuing
+
+### 💼 Professional Experience
+- **Coach** at Major League Hacking — Mentoring and supporting hackathon participants
+
+### 🎯 What I Do
+I focus on building web services, demos, and hackathon projects with an emphasis on clean code, scalability, and user experience. I'm particularly interested in exploring new technologies, contributing to open-source initiatives, and mentoring the next generation of developers.
+
+### 🛠️ Technical Stack
+- **Languages:** JavaScript/TypeScript, Python, Java, and more
+- **Specialties:** Full-stack development, API design, rapid prototyping
+- **Interests:** Web development, hackathons, open-source collaboration, developer advocacy
+
+### 🚀 Let's Connect
+- **GitHub:** [@Anjana-sankar-k](https://github.com/Anjana-sankar-k)
+- **MyMLH Profile:** Active in MLH community
+- **Portfolio:** Check out my repositories for a showcase of my work
+
+### 💡 Open to
+- Collaborating on interesting projects
+- Contributing to open-source
+- Hackathon participation and mentoring
+- Speaking and knowledge sharing
+- Coaching upcoming developers
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
